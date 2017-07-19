@@ -3,7 +3,10 @@ display: flex;
 	background-image: url("stephen-oliver-202557.jpg")
 }
 
-
+.test {
+	display:flex;
+	flex-direction: column;
+}
 .page{
 	border-radius: 1px;
 }
@@ -15,24 +18,31 @@ display: flex;
 	font-color:;
 	display: flex;
 	align-items: center;
-	justify-content: space-between;
+	justify-content: space-around;
 	
 
 
 }
+.titre h5{
+	display: flex;
+	justify-content: space-around;
 
+}
 .infos{
 	font-family: 'Lobster' cursive;
 	font-size: 22px;
 
 }
-.img{
+
 	
 
 
 }
-.section{
-	
+.section h3{
+	font-family:;
+ 	font-style:; 
+ 	font-size:;
+	display-flex:;
 
 }
 .devers{
